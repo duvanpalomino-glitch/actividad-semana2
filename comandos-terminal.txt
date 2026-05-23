@@ -1,0 +1,10 @@
+1-git init
+2-mkdir semana2
+3-touch preguntas-semana2.txt
+touch comandos-semana2.txt
+touch reflexion-seman2.txt
+4-git add semana2
+5-git commit -m “actvidad semana2”
+6-git remote add origin
+7-git branch -m main
+8-git push u- origin main
