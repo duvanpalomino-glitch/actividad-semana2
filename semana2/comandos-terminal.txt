@@ -7,4 +7,4 @@ touch reflexion-seman2.txt
 5-git commit -m “actvidad semana2”
 6-git remote add origin
 7-git branch -m main
-8-git push u- origin main
+8-git push -u origin main
