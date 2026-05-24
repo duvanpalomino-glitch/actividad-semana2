@@ -1,0 +1,12 @@
+Para un desarrolador saber usar la terminal es muy importante porque, hay vamos a
+ejecutar los comandos, vamos a crear proyecros y mas, ademas nos da mas 
+velocidad al ejecutar acciones escribiendo, que usar el mause y yendo de pajina en 
+pajina quemando tiempo, tambien un programador debe saber que la terminal es la
+base del desarrollo, es el entorno nativo para la programacion moderna y tambien 
+es como la llave maestra que nos permite usar git, administrar servidores e 
+implementar imteligencia artificial. ya por ultimo al menos saber lo basico como 
+crear carpetas (mkdir), ver lista de archivos o carpeta (ls), (cd) para entrar a las 
+carpetas etc, algo que tambien añadiria seria aprender a usar la tecla tab ya que ella 
+nos ayuda a tener mas velocidad y evita errores de tipeo como escribir mal el
+nombre de la carpeta o comando, no poner el espacio (ej. ‘cdcarpeta en vez de cd 
+carpeta) tambien saber en donde, en que parte craer el proyecto.
